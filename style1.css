@@ -1,0 +1,58 @@
+body{
+    background-color: blue;
+}
+.main{
+    margin-top:100px;
+}
+.goo{
+    margin-bottom: 5px;
+}
+.nav{
+    display:flex;
+    justify-content:center;
+}
+
+.google{
+    margin-top:5px;
+    margin-bottom: 5px;
+    margin-left:2px;
+    margin-right:2px;
+    width:300px;
+    display:block;
+    margin:auto;
+}
+.letters{
+    display:block;
+    margin-bottom: 50px;
+    width:400px;
+    margin:auto;
+    padding:20px;
+    border:none;
+    border-radius:40px;
+
+
+}
+
+.gg{
+    margin-top: 5px;
+    width:100px;
+    background-color: grey;
+    height:50px;
+    font-size: 12px;
+    border:2px solid whitesmoke;
+    padding:5px;
+    border-radius: 2px;
+}
+.src{
+    width:100px;
+    height:50px;
+    font-size: 12px;
+    margin-left: 10px;
+    border:2px solid whitesmoke;
+    background-color: grey;
+    margin-top:5px;
+    padding:5px;
+    border-radius: 2px;
+
+}
+
